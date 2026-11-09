@@ -28,10 +28,6 @@ I enjoy turning complex technical problems into practical, well-documented solut
 - Assisted with final-exam supervision, correction and academic-integrity procedures.
 - Supported large classes, including an internship-project course with approximately 160 students.
 
-### Business Operations Executive — MyCaptain, Bengaluru | May 2022 – Aug 2024
-
-- Coordinated reporting and tracker automation across 18 technical projects, 85+ students and 200+ deliverables.
-
 ## Education
 
 **MSc in Computer Science – Artificial Intelligence, Co-op** — University of Windsor, Canada
